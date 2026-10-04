@@ -804,6 +804,10 @@ html:not(.mode-teacher) .js .teacher-only {
     transition: top 0.3s ease, opacity 0.3s ease;
 }
 
+#page-mp4ooho5-4jko4i00h{
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+
 #skipNav:focus {
     top: 5px;
 }
