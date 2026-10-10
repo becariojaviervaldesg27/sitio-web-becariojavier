@@ -408,7 +408,7 @@ body.siteNav-off #siteNav {
 .exe-web-site main.page {
     box-sizing: border-box;
     width: 100%;
-    padding-left: 330px;
+    padding-left: 90px;
     padding-bottom: 24px;
     transition: padding 0.3s ease;
 }
