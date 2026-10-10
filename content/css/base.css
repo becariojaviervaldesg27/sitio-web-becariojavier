@@ -809,7 +809,7 @@ html:not(.mode-teacher) .js .teacher-only {
 }
 
 main{
-  background-image: linear-gradient(to bottom left, black, white);
+  background-image: #666666;
 }
 
 /* Print styles for header elements */
